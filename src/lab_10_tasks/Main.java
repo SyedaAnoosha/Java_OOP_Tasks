@@ -1,6 +1,17 @@
-package lab_10_tasks;/*
+package lab_10_tasks;
+
+/*
+
 Write a java program based on filing. Perform Create, Read and Write operations on JSON file.
-*/
+
+download json-simple jar file before running code  https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/json-simple/json-simple-1.1.1.jar
+
+ File > Project Structure > Libraries > + > Java > json simple folder
+
+ */
+
+
+
 
 import java.io.FileNotFoundException;
 import java.io.FileReader;
